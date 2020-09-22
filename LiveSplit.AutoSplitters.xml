@@ -9913,6 +9913,32 @@
         <Description>Autosplitter by Mysterion_06_</Description>
         <Website>https://github.com/Mysterion06/SJGame/blob/master/README.md</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Harry Potter and the Deathly Hallows Part 2</Game>
+            <Game>Harry Potter 7 part 2</Game>
+            <Game>HP7p2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Flo203/HP7Loadremover/master/7Part2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover by Flo203</Description>
+        <Website>https://github.com/Flo203/HP7Loadremover/blob/master/7Part2.asl</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Harry Potter and the Deathly Hallows Part 1</Game>
+            <Game>Harry Potter 7 part 1</Game>
+            <Game>HP7p1</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Flo203/HP7Loadremover/master/7Part1.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover by Flo203</Description>
+        <Website>https://github.com/Flo203/HP7Loadremover/blob/master/7Part1.asl</Website>
+    </AutoSplitter>
 </AutoSplitters>
 
 
